@@ -2,10 +2,6 @@
 
 This is an official implementation of the paper "Strike a Balance in Continual Panoptic Segmentation", submitted to ECCV 2024.
 
-## Clarification of Anonymity
-Our code is built upon some previous open-source libraries, including [Mask2Former](https://github.com/facebookresearch/Mask2Former), [Detectron2](https://github.com/facebookresearch/detectron2/tree/main), and others. These libraries originally contained some names of authors or institutions. We have made every effort to remove these. However, to ensure full coverage in case we missed anything, we hereby clarify: any names of people or institutions that appear in the code do not imply any specific association with the authors of this submission.
-
-Additionally, subsequent sections may refer to the installation of certain packages or the downloading of datasets. These references are purely for sourcing purposes and should not be interpreted as having any relation to the authors of this submission.
 
 ## Installation
 
