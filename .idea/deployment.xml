@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="jinpeng@10.37.1.234:22 password (3)" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="BalConpas" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
-      <paths name="jinpeng@10.37.1.234:22 password (3)">
+      <paths name="BalConpas">
         <serverdata>
           <mappings>
             <mapping deploy="/home/data-pool-2/jinpeng/MyWork/CPS/MyCPS/opensource" local="$PROJECT_DIR$" />
