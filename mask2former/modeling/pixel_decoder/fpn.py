@@ -1,4 +1,4 @@
-
+# Copyright (c) Facebook, Inc. and its affiliates.
 import logging
 import numpy as np
 from typing import Callable, Dict, List, Optional, Tuple, Union
