@@ -1,4 +1,4 @@
-
+# Copyright (c) Facebook, Inc. and its affiliates.
 import itertools
 import json
 import os

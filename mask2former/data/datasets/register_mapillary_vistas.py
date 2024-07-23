@@ -1,4 +1,4 @@
-
+# Copyright (c) Facebook, Inc. and its affiliates.
 import os
 
 from detectron2.data import DatasetCatalog, MetadataCatalog

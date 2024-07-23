@@ -1,4 +1,4 @@
-
+# Copyright (c) Facebook, Inc. and its affiliates.
 from . import (
     register_ade20k_full,
     register_ade20k_panoptic,

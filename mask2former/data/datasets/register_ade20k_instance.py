@@ -1,4 +1,4 @@
-
+# Copyright (c) Facebook, Inc. and its affiliates.
 import json
 import logging
 import numpy as np
