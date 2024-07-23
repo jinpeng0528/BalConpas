@@ -110,3 +110,6 @@ CONT.TASK 6 OUTPUT_DIR ./output/ps/100-10/step6
   year={2024}
 }
 ```
+
+## Acknowledgements
+* This code is based on [Mask2Former](https://github.com/facebookresearch/Mask2Former).
