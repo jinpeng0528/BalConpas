@@ -1,4 +1,4 @@
-# Strike a Balance in Continual Panoptic Segmentation
+# [ECCV 2024] Strike a Balance in Continual Panoptic Segmentation
 
 This is an official implementation of the paper "Strike a Balance in Continual Panoptic Segmentation", submitted to ECCV 2024.
 
@@ -103,4 +103,14 @@ To evaluate the trained model, add the argument `--eval-only --resume` to the co
 ```bash
 python train_continual.py --eval-only --resume --config-file configs/ade20k/panoptic-segmentation/100-10.yaml \
 CONT.TASK 6 OUTPUT_DIR ./output/ps/100-10/step6
+```
+
+## Citation
+```
+@inproceedings{chen2024strike,
+  title={Strike a Balance in Continual Panoptic Segmentation},
+  author={Chen, Jinpeng and Cong, Runmin and Luo, Yuxuan and Ip, Horace Ho Shing and Kwong, Sam},
+  booktitle={ECCV},
+  year={2024}
+}
 ```
