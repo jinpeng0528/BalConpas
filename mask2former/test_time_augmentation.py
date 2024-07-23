@@ -1,4 +1,4 @@
-
+# Copyright (c) Facebook, Inc. and its affiliates.
 import copy
 import logging
 from itertools import count
