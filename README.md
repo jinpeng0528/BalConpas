@@ -101,6 +101,22 @@ python train_continual.py --eval-only --resume --config-file configs/ade20k/pano
 CONT.TASK 6 OUTPUT_DIR ./output/ps/100-10/step6
 ```
 
+## Model Zoo
+We provide the pre-trained weights of our BalConpas-R. The models can be downloaded from the following links (rename the downloaded model to `model_final.pth` and place it in the corresponding output directory of the last step):
+
+| CPS         | 100-50<br>(2 steps) | 100-10<br>(6 steps) | 100-5<br>(11 steps) | 50-50<br>(3 steps) | 
+|:------------|:-------------------:|:-------------------:|:-------------------:|:------------------:|
+| BalConpas-R |      [37.55](https://drive.google.com/file/d/1MiDGXqZ67_JE2xibYsx5W1T40I39SM_I/view?usp=share_link)      |      [36.49](https://drive.google.com/file/d/124IdfdN6lT30FGrXM-O5cHI8JQN1tmJM/view?usp=share_link)      |      [32.82](https://drive.google.com/file/d/1Vni0omPgUf_PKJV2-AvEc8vRGybXrq5q/view?usp=share_link)      |     [35.81](https://drive.google.com/file/d/1vKnGXMOsSH3KtVx8kpda4pEoXFagxCKx/view?usp=share_link)      |
+
+| CSS         | 100-50<br>(2 steps) | 100-10<br>(6 steps) | 100-5<br>(11 steps) | 50-50<br>(3 steps) | 
+|:------------|:-------------------:|:-------------------:|:-------------------:|:------------------:|
+| BalConpas-R |      [44.01](https://drive.google.com/file/d/1rsIYUbFNrZDhMZaLdY9uVdXlsV3bMAcb/view?usp=share_link)      |      [40.43](https://drive.google.com/file/d/1vCU_-SLsR1d_CpCJLiTBBP4zhy-f2qAm/view?usp=share_link)      |      [36.79](https://drive.google.com/file/d/1xF3_beK6Mg7N4IVT7DgxkFeKGxaAKjRI/view?usp=share_link)      |     [41.33](https://drive.google.com/file/d/1jZKbX7XhVyYlfMMtaU5gIztIE9ZodZ1x/view?usp=share_link)      |
+
+| CIS         | 50-50<br>(2 steps) | 50-10<br>(6 steps) | 50-5<br>(11 steps) |
+|:------------|:------------------:|:------------------:|:------------------:|
+| BalConpas-R |     [24.89](https://drive.google.com/file/d/1FYL4T1Al6K4FLFWjz3gdksgZ1R-moS9P/view?usp=share_link)      |     [23.34](https://drive.google.com/file/d/1eMJ5euV_PEnyzrbSOgyOpx5-mCIfGVvf/view?usp=share_link)      |     [21.23](https://drive.google.com/file/d/1p2U9Z7XiNtiyM3yU9v6XAfY31jY4scCg/view?usp=share_link)      |
+
+
 ## Citation
 ```
 @inproceedings{chen2024strike,
