@@ -82,9 +82,9 @@ class Trainer(DefaultTrainer):
             cfg_old.freeze()
 
             model_old = self.build_model(cfg_old).eval()
-            model_old = create_ddp_model(model_old, broadcast_buffers=False)
             model_old.load_state_dict(
                 torch.load(cfg.CONT.OLD_WEIGHTS, map_location=torch.device("cpu"))["model"], strict=False)
+            model_old = create_ddp_model(model_old, broadcast_buffers=False)
         else:
             model_old = None
 
