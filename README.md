@@ -107,7 +107,7 @@ We provide the pre-trained weights of our BalConpas-R. The models can be downloa
 
 | CPS         | 100-50<br>(2 steps) | 100-10<br>(6 steps) | 100-5<br>(11 steps) | 50-50<br>(3 steps) | 
 |:------------|:-------------------:|:-------------------:|:-------------------:|:------------------:|
-| BalConpas-R |      [37.55](https://drive.google.com/file/d/1MiDGXqZ67_JE2xibYsx5W1T40I39SM_I/view?usp=share_link)      |      [36.49](https://drive.google.com/file/d/124IdfdN6lT30FGrXM-O5cHI8JQN1tmJM/view?usp=share_link)      |      [32.82](https://drive.google.com/file/d/1Vni0omPgUf_PKJV2-AvEc8vRGybXrq5q/view?usp=share_link)      |     [35.81](https://drive.google.com/file/d/1vKnGXMOsSH3KtVx8kpda4pEoXFagxCKx/view?usp=share_link)      |
+| BalConpas-R |      [37.55](https://1drv.ms/u/c/7be8ecfc440137f7/ESCpXocemqZHkRkgGYRG1B4BdetYSrWXCMSjoOsyCsHTuA)      |      [36.49](https://1drv.ms/u/c/7be8ecfc440137f7/Ee7Xbc64Oa1AoEZ7kqP1tcgBOTCBmvnmu23qGc670zBNHg)      |      [32.82](https://1drv.ms/u/c/7be8ecfc440137f7/Ee_-vMQHHI9MmZo6mNACoZMBoshk09KuarfgUOyTi6uOYg)      |     [35.81](https://1drv.ms/u/c/7be8ecfc440137f7/EXeaWNfi1PVMvIv9xKghv4wBlTvT8RyA_Hgk8FQtYBRaJw)      |
 
 | CSS         | 100-50<br>(2 steps) | 100-10<br>(6 steps) | 100-5<br>(11 steps) | 50-50<br>(3 steps) | 
 |:------------|:-------------------:|:-------------------:|:-------------------:|:------------------:|
