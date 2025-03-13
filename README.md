@@ -1,7 +1,8 @@
 # [ECCV 2024] Strike a Balance in Continual Panoptic Segmentation
 
-This is an official implementation of the paper "Strike a Balance in Continual Panoptic Segmentation", accepted by ECCV 2024.
-[[paper]](https://arxiv.org/abs/2407.16354)
+This is an official implementation of the paper "Strike a Balance in Continual Panoptic Segmentation", accepted by ECCV 2024.  
+[📝 Paper](https://arxiv.org/abs/2407.16354)
+[🤗 Hugging Face](https://huggingface.co/jinpeng0528/BalConpas)
 
 
 ## Installation
