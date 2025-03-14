@@ -108,11 +108,11 @@ We provide the pre-trained weights of our BalConpas-R. The models can be downloa
 
 | CPS         | 100-50<br>(2 steps) | 100-10<br>(6 steps) | 100-5<br>(11 steps) | 50-50<br>(3 steps) | 
 |:------------|:-------------------:|:-------------------:|:-------------------:|:------------------:|
-| BalConpas-R |      [37.55](https://1drv.ms/u/c/7be8ecfc440137f7/ESCpXocemqZHkRkgGYRG1B4BdetYSrWXCMSjoOsyCsHTuA)      |      [36.49](https://1drv.ms/u/c/7be8ecfc440137f7/Ee7Xbc64Oa1AoEZ7kqP1tcgBOTCBmvnmu23qGc670zBNHg)      |      [32.82](https://1drv.ms/u/c/7be8ecfc440137f7/Ee_-vMQHHI9MmZo6mNACoZMBoshk09KuarfgUOyTi6uOYg)      |     [35.81](https://1drv.ms/u/c/7be8ecfc440137f7/EXeaWNfi1PVMvIv9xKghv4wBlTvT8RyA_Hgk8FQtYBRaJw)      |
+| BalConpas-R |      [37.55](https://huggingface.co/jinpeng0528/BalConpas/blob/main/cps_100-50.pth)      |      [36.49](https://huggingface.co/jinpeng0528/BalConpas/blob/main/cps_100-10.pth)      |      [32.82](https://huggingface.co/jinpeng0528/BalConpas/blob/main/cps_100-5.pth)      |     [35.81](https://huggingface.co/jinpeng0528/BalConpas/blob/main/cps_50-50.pth)      |
 
 | CSS         | 100-50<br>(2 steps) | 100-10<br>(6 steps) | 100-5<br>(11 steps) | 50-50<br>(3 steps) | 
 |:------------|:-------------------:|:-------------------:|:-------------------:|:------------------:|
-| BalConpas-R |      [44.01](https://1drv.ms/u/c/7be8ecfc440137f7/EaZJBLUBusBEsEw747SOubAB2tEax7RXIpIgH8tpUEC1wQ)      |      [40.43](https://1drv.ms/u/c/7be8ecfc440137f7/EThvQO8t0e5ItnPUQ4Sz7bEBlFl7zLb_HeoaFtUvFT2tKA)      |      [36.79](https://1drv.ms/u/c/7be8ecfc440137f7/EdU-GfPOR7dGtWWB8HeYw4kBvZSnzqQj5-W_g_Cz9bU04A)      |     [41.33](https://1drv.ms/u/c/7be8ecfc440137f7/EWuwFEKegE1Ll275s4Ht4IoBXKCipsKDgZOirl9Rrt3OlA)      |
+| BalConpas-R |      [44.01](https://huggingface.co/jinpeng0528/BalConpas/blob/main/css_100-50.pth)      |      [40.43](https://huggingface.co/jinpeng0528/BalConpas/blob/main/css_100-10.pth)      |      [36.79](https://huggingface.co/jinpeng0528/BalConpas/blob/main/css_100-5.pth)      |     [41.33](https://huggingface.co/jinpeng0528/BalConpas/blob/main/css_50-50.pth)      |
 
 | CIS         | 50-50<br>(2 steps) | 50-10<br>(6 steps) | 50-5<br>(11 steps) |
 |:------------|:------------------:|:------------------:|:------------------:|
