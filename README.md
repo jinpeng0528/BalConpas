@@ -116,7 +116,7 @@ We provide the pre-trained weights of our BalConpas-R. The models can be downloa
 
 | CIS         | 50-50<br>(2 steps) | 50-10<br>(6 steps) | 50-5<br>(11 steps) |
 |:------------|:------------------:|:------------------:|:------------------:|
-| BalConpas-R |     [24.89](https://1drv.ms/u/c/7be8ecfc440137f7/ESU69u_3Yq1InPn11I-rJroBPUg3QXLfPQbx953LU1d5fQ)      |     [23.34](https://1drv.ms/u/c/7be8ecfc440137f7/EUAiALV0TCFLh8ix-O7v5dEBxLKP1Sa4NBzwxF7FP8iWVA)      |     [21.23](https://1drv.ms/u/c/7be8ecfc440137f7/EYdRotPoSdNOuQb8zCRVZEgBADZXDxvvcjCv5C5wI6iVAw)      |
+| BalConpas-R |     [24.89](https://huggingface.co/jinpeng0528/BalConpas/blob/main/cis_50-50.pth)      |     [23.34](https://huggingface.co/jinpeng0528/BalConpas/blob/main/cis_50-10.pth)      |     [21.23](https://huggingface.co/jinpeng0528/BalConpas/blob/main/cis_50-5.pth)      |
 
 
 ## Citation
